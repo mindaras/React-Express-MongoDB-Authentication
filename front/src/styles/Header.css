@@ -1,0 +1,8 @@
+.header
+{
+  padding: 40px 80px;
+}
+.link:not(:last-of-type)
+{
+  margin-right: 20px;
+}
